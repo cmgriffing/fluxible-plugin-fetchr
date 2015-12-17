@@ -1,8 +1,0 @@
-/artifacts/
-/docs/
-/tests/
-.coveralls.yml
-.jshintignore
-.jshintrc
-.npmignore
-.travis.yml
