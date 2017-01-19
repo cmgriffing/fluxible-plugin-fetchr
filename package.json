@@ -14,12 +14,12 @@
   },
   "dependencies": {
     "debug": "^2.0.0",
-    "fetchr": "^0.4.0"
+    "fetchr": "cmgriffing/fetchr"
   },
   "devDependencies": {
     "chai": "^1.10.0",
     "coveralls": "^2.11.1",
-    "fluxible": "https://github.com/cmgriffing/fetchr.git",
+    "fluxible": "^0.1.0",
     "grunt": "^0.4.5",
     "istanbul": "^0.3.2",
     "jshint": "^2.5.5",
